@@ -30,3 +30,9 @@
 * Эссе
 * Квизы
 * Контрольная работа (Midterm)
+
+### Ссылки ###
+
+
+Чат: [https://t.me/+2CCPjiPs_JA0NDE6]
+Сдавать квизы/домашку/контрольные/эссе здесь: [https://canvas.instructure.com/enroll/RGYJWY]
