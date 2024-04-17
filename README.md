@@ -20,24 +20,16 @@
 | 14| 12.12| Выполнение запросов | Оптимизация запросов |
 | 15| 19.12| Управление транзакциями | Уровни изолированности при конкурентном выполнении транзакций |
 
-### Учебники ###
-
-* TBD
-
 ### Задания ###
 
-* Домашняя работа / групповой проеки
+* Домашняя работа / групповой проект
 * Эссе
 * Квизы
 * Контрольная работа (Midterm)
 
 ### Ссылки ###
 
+Сдавать квизы/домашку/контрольные/эссе в canvas.instructure.com
 
-[Telegram chat](https://t.me/+FS_KiTRV-BhmNGFi)
-
-Сдавать квизы/домашку/контрольные/эссе [здесь](https://canvas.instructure.com/enroll/RGYJWY)
-
-Репозиторий на Bitbucket [https://bitbucket.org/adbadb/db-se-22](https://bitbucket.org/adbadb/db-se-22)
-Репозиторий на GitHub [https://github.com/adbadb/db-se-22](https://github.com/adbadb/db-se-22)
+### Учебники ###
 
